@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\bin\Debug\net7.0-windows\Invoice Total.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\bin\Debug\net7.0-windows\Invoice Total.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\bin\Debug\net7.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\bin\Debug\net7.0-windows\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\bin\Debug\net7.0-windows\Invoice Total.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice_Total.frmInvoiceTotal.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\refint\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\Invoice Total\obj\Debug\net7.0-windows\ref\Invoice Total.dll

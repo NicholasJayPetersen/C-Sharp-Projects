@@ -1,0 +1,32 @@
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.exe
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.deps.json
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.runtimeconfig.json
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.dll
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina_s_Sales_Forecast_Application.frmSalesForecast.resources
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.csproj.GenerateResource.cache
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.AssemblyInfoInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.AssemblyInfo.cs
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.csproj.CoreCompileInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.dll
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\refint\Tina's Sales Forecast Application.dll
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.genruntimeconfig.cache
+C:\Users\hugot\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\ref\Tina's Sales Forecast Application.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.exe
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.deps.json
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.runtimeconfig.json
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\bin\Debug\net8.0-windows\Tina's Sales Forecast Application.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina_s_Sales_Forecast_Application.frmSalesForecast.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.AssemblyInfo.cs
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\refint\Tina's Sales Forecast Application.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\Tina's Sales Forecast Application.genruntimeconfig.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Practice\Tina's Sales Forecast Application\obj\Debug\net8.0-windows\ref\Tina's Sales Forecast Application.dll

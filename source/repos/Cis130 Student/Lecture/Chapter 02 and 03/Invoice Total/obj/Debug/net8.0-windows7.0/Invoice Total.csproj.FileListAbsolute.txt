@@ -1,0 +1,16 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\bin\Debug\net8.0-windows7.0\Invoice Total.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\bin\Debug\net8.0-windows7.0\Invoice Total.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\bin\Debug\net8.0-windows7.0\Invoice Total.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\bin\Debug\net8.0-windows7.0\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\bin\Debug\net8.0-windows7.0\Invoice Total.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice_Total.frmInvoiceTotal.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\refint\Invoice Total.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\Invoice Total.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 02 and 03\Invoice Total\obj\Debug\net8.0-windows7.0\ref\Invoice Total.dll

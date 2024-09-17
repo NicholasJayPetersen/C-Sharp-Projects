@@ -1,0 +1,16 @@
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\bin\Debug\net8.0-windows\NA Assignement Nicholas Petersen.exe
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\bin\Debug\net8.0-windows\NA Assignement Nicholas Petersen.deps.json
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\bin\Debug\net8.0-windows\NA Assignement Nicholas Petersen.runtimeconfig.json
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\bin\Debug\net8.0-windows\NA Assignement Nicholas Petersen.dll
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\bin\Debug\net8.0-windows\NA Assignement Nicholas Petersen.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA_Assignement_Nicholas_Petersen.frmNA.resources
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.csproj.GenerateResource.cache
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.AssemblyInfoInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.AssemblyInfo.cs
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.csproj.CoreCompileInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.dll
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\refint\NA Assignement Nicholas Petersen.dll
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\NA Assignement Nicholas Petersen.genruntimeconfig.cache
+C:\Users\hugot\source\repos\Cis130 Student\Assignments\NA Assignement Nicholas Petersen\obj\Debug\net8.0-windows\ref\NA Assignement Nicholas Petersen.dll

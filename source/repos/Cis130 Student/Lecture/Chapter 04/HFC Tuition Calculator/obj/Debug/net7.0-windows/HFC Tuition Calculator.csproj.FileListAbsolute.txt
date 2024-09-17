@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\bin\Debug\net7.0-windows\HFC Tuition Calculator.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\bin\Debug\net7.0-windows\HFC Tuition Calculator.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\bin\Debug\net7.0-windows\HFC Tuition Calculator.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\bin\Debug\net7.0-windows\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\bin\Debug\net7.0-windows\HFC Tuition Calculator.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC_Tuition_Calculator.frmTuitionCalculator.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\refint\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\HFC Tuition Calculator.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\HFC Tuition Calculator\obj\Debug\net7.0-windows\ref\HFC Tuition Calculator.dll

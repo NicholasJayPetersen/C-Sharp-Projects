@@ -1,0 +1,18 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\bin\Debug\net6.0-windows\Car Race.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\bin\Debug\net6.0-windows\Car Race.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\bin\Debug\net6.0-windows\Car Race.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\bin\Debug\net6.0-windows\Car Race.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\bin\Debug\net6.0-windows\Car Race.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.csproj.AssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car_Race.frmCarRace.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car_Race.Properties.Resources.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\refint\Car Race.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\Car Race.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Car Race\obj\Debug\net6.0-windows\ref\Car Race.dll

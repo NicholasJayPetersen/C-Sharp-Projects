@@ -1,0 +1,18 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\bin\Debug\net7.0-windows\Car Race.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\bin\Debug\net7.0-windows\Car Race.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\bin\Debug\net7.0-windows\Car Race.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\bin\Debug\net7.0-windows\Car Race.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\bin\Debug\net7.0-windows\Car Race.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car_Race.frmCarRace.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car_Race.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\refint\Car Race.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\Car Race.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Car Race\obj\Debug\net7.0-windows\ref\Car Race.dll

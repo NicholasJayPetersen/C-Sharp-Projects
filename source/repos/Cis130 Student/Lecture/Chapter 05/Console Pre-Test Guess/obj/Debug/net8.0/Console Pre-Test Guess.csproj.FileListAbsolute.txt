@@ -1,0 +1,14 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\bin\Debug\net8.0\Console Pre-Test Guess.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\bin\Debug\net8.0\Console Pre-Test Guess.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\bin\Debug\net8.0\Console Pre-Test Guess.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\bin\Debug\net8.0\Console Pre-Test Guess.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\bin\Debug\net8.0\Console Pre-Test Guess.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\refint\Console Pre-Test Guess.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\Console Pre-Test Guess.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Pre-Test Guess\obj\Debug\net8.0\ref\Console Pre-Test Guess.dll

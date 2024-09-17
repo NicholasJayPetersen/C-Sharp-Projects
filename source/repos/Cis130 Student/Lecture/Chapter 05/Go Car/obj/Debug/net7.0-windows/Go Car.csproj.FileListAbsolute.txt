@@ -1,0 +1,18 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\bin\Debug\net7.0-windows\Go Car.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\bin\Debug\net7.0-windows\Go Car.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\bin\Debug\net7.0-windows\Go Car.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\bin\Debug\net7.0-windows\Go Car.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\bin\Debug\net7.0-windows\Go Car.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go_Car.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go_Car.frmCar.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\refint\Go Car.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\Go Car.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\Go Car\obj\Debug\net7.0-windows\ref\Go Car.dll

@@ -1,0 +1,18 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\bin\Debug\net6.0-windows\Go Car.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\bin\Debug\net6.0-windows\Go Car.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\bin\Debug\net6.0-windows\Go Car.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\bin\Debug\net6.0-windows\Go Car.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\bin\Debug\net6.0-windows\Go Car.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.csproj.AssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go_Car.Properties.Resources.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go_Car.frmCar.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\refint\Go Car.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\Go Car.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Go Car\obj\Debug\net6.0-windows\ref\Go Car.dll

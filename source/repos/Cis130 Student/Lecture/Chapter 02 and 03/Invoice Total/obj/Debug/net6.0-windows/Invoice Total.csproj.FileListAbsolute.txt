@@ -1,0 +1,17 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\bin\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.AssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice_Total.frmInvoiceTotal.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\refint\Invoice Total.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\Invoice Total\obj\Debug\net6.0-windows\ref\Invoice Total.dll

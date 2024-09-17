@@ -1,0 +1,16 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\bin\Debug\net8.0-windows7.0\HFC Tuition Calculator.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\bin\Debug\net8.0-windows7.0\HFC Tuition Calculator.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\bin\Debug\net8.0-windows7.0\HFC Tuition Calculator.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\bin\Debug\net8.0-windows7.0\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\bin\Debug\net8.0-windows7.0\HFC Tuition Calculator.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC_Tuition_Calculator.frmTuitionCalculator.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\refint\HFC Tuition Calculator.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\HFC Tuition Calculator.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 04\HFC Tuition Calculator\obj\Debug\net8.0-windows7.0\ref\HFC Tuition Calculator.dll

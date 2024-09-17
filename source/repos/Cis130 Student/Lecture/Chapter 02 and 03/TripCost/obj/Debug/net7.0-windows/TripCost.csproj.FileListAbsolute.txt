@@ -1,0 +1,7 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.frmTripCost.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 02 and 03\TripCost\obj\Debug\net7.0-windows\TripCost.csproj.CoreCompileInputs.cache

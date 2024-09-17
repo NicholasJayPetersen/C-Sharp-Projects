@@ -1,0 +1,14 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\bin\Debug\net8.0\Console Post-Test Example.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\bin\Debug\net8.0\Console Post-Test Example.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\bin\Debug\net8.0\Console Post-Test Example.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\bin\Debug\net8.0\Console Post-Test Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\bin\Debug\net8.0\Console Post-Test Example.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\refint\Console Post-Test Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\Console Post-Test Example.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Console Post-Test Example\obj\Debug\net8.0\ref\Console Post-Test Example.dll

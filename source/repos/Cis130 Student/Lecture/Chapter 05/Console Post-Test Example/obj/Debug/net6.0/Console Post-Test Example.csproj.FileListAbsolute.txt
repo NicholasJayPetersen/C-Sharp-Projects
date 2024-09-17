@@ -1,0 +1,15 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\bin\Debug\net6.0\Console Post-Test Example.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\bin\Debug\net6.0\Console Post-Test Example.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\bin\Debug\net6.0\Console Post-Test Example.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\bin\Debug\net6.0\Console Post-Test Example.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\bin\Debug\net6.0\Console Post-Test Example.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.csproj.AssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\refint\Console Post-Test Example.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\Console Post-Test Example.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 05\Console Post-Test Example\obj\Debug\net6.0\ref\Console Post-Test Example.dll

@@ -1,0 +1,34 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice_Example.frmDice.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice_Example.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\refint\Dice Example.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\ref\Dice Example.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\refint\Dice Example.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.exe
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.deps.json
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.runtimeconfig.json
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\bin\Debug\net8.0-windows7.0\Dice Example.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice_Example.frmDice.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice_Example.Properties.Resources.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.AssemblyInfo.cs
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\Dice Example.genruntimeconfig.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\source\repos\Cis130 Student\Lecture\Chapter 05\Dice Example\obj\Debug\net8.0-windows7.0\ref\Dice Example.dll

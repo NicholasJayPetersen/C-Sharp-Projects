@@ -1,0 +1,1 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 01\FinancialCalculations\FinancialCalculations\obj\Debug\netcoreapp3.1\FinancialCalculations.csprojAssemblyReference.cache

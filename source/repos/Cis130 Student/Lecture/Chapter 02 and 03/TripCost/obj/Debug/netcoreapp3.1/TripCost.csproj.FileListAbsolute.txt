@@ -1,0 +1,6 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.frmTripCost.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 02 and 03\TripCost\obj\Debug\netcoreapp3.1\TripCost.csproj.CoreCompileInputs.cache

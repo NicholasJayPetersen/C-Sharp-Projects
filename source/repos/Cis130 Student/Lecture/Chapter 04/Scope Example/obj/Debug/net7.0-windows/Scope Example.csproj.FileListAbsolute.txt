@@ -1,0 +1,7 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope_Example.frmSales.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 04\Scope Example\obj\Debug\net7.0-windows\Scope Example.csproj.CoreCompileInputs.cache

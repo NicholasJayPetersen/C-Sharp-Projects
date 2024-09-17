@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car_Race.frmCarRace.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car_Race.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\refint\Car Race.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\ref\Car Race.dll

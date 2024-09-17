@@ -1,0 +1,17 @@
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\bin\Debug\net8.0-windows\Splash Project.exe
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\bin\Debug\net8.0-windows\Splash Project.deps.json
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\bin\Debug\net8.0-windows\Splash Project.runtimeconfig.json
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\bin\Debug\net8.0-windows\Splash Project.dll
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\bin\Debug\net8.0-windows\Splash Project.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash_Project.Properties.Resources.resources
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash_Project.frmSplash.resources
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.csproj.GenerateResource.cache
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.AssemblyInfoInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.AssemblyInfo.cs
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.csproj.CoreCompileInputs.cache
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.dll
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\refint\Splash Project.dll
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.pdb
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\Splash Project.genruntimeconfig.cache
+C:\Users\hugot\source\repos\Cis130 Student\Lecture\Chapter 01\Splash Project\obj\Debug\net8.0-windows\ref\Splash Project.dll

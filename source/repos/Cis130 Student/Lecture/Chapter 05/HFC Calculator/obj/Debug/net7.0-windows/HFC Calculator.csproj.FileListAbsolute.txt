@@ -1,0 +1,7 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC_Calculator.frmTuitionCalculator.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05\HFC Calculator\obj\Debug\net7.0-windows\HFC Calculator.csproj.CoreCompileInputs.cache
