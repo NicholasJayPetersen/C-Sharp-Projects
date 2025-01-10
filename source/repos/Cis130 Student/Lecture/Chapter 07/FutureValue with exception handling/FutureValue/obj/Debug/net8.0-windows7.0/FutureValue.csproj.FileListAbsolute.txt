@@ -1,0 +1,16 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net8.0-windows7.0\FutureValue.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net8.0-windows7.0\FutureValue.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net8.0-windows7.0\FutureValue.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net8.0-windows7.0\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net8.0-windows7.0\FutureValue.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.frmFutureValue.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\refint\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\FutureValue.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net8.0-windows7.0\ref\FutureValue.dll

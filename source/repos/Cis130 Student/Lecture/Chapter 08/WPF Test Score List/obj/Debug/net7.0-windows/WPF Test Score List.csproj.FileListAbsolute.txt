@@ -1,0 +1,5 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List\obj\Debug\net7.0-windows\WPF Test Score List.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List\obj\Debug\net7.0-windows\TestScoreList.g.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List\obj\Debug\net7.0-windows\WPF Test Score List_MarkupCompile.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List\obj\Debug\net7.0-windows\WPF Test Score List_MarkupCompile.lref

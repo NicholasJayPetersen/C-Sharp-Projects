@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment05_0y0hcrsy_wpftmp
+build_property.ProjectDir = C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Winter 2023\Projects-Start\Assignment05\

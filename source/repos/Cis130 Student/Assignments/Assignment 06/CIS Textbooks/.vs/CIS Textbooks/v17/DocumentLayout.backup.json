@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\appglobals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:appglobals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\uservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:uservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 06\\cis textbooks\\displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15AB8644-C6C3-49AF-97E8-2E3C1F99279A}|CIS Textbooks.csproj|solutionrelative:displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppGlobals.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AppGlobals.cs",
+              "RelativeDocumentMoniker": "AppGlobals.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AppGlobals.cs",
+              "RelativeToolTip": "AppGlobals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:35:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBookForm.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "AddBookForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AddBookForm.cs",
+              "RelativeToolTip": "AddBookForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:37:15.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:34:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayAllForm.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\DisplayAllForm.cs",
+              "RelativeDocumentMoniker": "DisplayAllForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\DisplayAllForm.cs",
+              "RelativeToolTip": "DisplayAllForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:09:04.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Textbook.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\Textbook.cs",
+              "RelativeDocumentMoniker": "Textbook.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\Textbook.cs",
+              "RelativeToolTip": "Textbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:20:07.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserValidation.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\UserValidation.cs",
+              "RelativeDocumentMoniker": "UserValidation.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\UserValidation.cs",
+              "RelativeToolTip": "UserValidation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:18:40.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddBookForm.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "AddBookForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\AddBookForm.cs [Design]",
+              "RelativeToolTip": "AddBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:37:10.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:14:13.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayAllForm.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\DisplayAllForm.cs",
+              "RelativeDocumentMoniker": "DisplayAllForm.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 06\\CIS Textbooks\\DisplayAllForm.cs [Design]",
+              "RelativeToolTip": "DisplayAllForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:14:01.525Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\bin\Debug\net7.0-windows\Coffee Shop.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\bin\Debug\net7.0-windows\Coffee Shop.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\bin\Debug\net7.0-windows\Coffee Shop.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\bin\Debug\net7.0-windows\Coffee Shop.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\bin\Debug\net7.0-windows\Coffee Shop.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee_Shop.frmCoffeeOrder.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\refint\Coffee Shop.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\Coffee Shop.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 05 Practice Lab\Coffee Shop\obj\Debug\net7.0-windows\ref\Coffee Shop.dll

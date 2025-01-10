@@ -1,0 +1,20 @@
+C:\Users\tconti\source\repos\WPF Future Value - Complete\bin\Debug\net7.0-windows\WPF Future Value - Complete.exe
+C:\Users\tconti\source\repos\WPF Future Value - Complete\bin\Debug\net7.0-windows\WPF Future Value - Complete.deps.json
+C:\Users\tconti\source\repos\WPF Future Value - Complete\bin\Debug\net7.0-windows\WPF Future Value - Complete.runtimeconfig.json
+C:\Users\tconti\source\repos\WPF Future Value - Complete\bin\Debug\net7.0-windows\WPF Future Value - Complete.dll
+C:\Users\tconti\source\repos\WPF Future Value - Complete\bin\Debug\net7.0-windows\WPF Future Value - Complete.pdb
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\FutureValue.g.cs
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete_MarkupCompile.cache
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete_MarkupCompile.lref
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\FutureValue.baml
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.g.resources
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.AssemblyInfoInputs.cache
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.AssemblyInfo.cs
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.csproj.CoreCompileInputs.cache
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.dll
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\refint\WPF Future Value - Complete.dll
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.pdb
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\WPF Future Value - Complete.genruntimeconfig.cache
+C:\Users\tconti\source\repos\WPF Future Value - Complete\obj\Debug\net7.0-windows\ref\WPF Future Value - Complete.dll

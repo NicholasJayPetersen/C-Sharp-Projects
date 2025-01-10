@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ajcon\\source\\repos\\Net 8\\Chapter 05\\Car Race\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7070E56-4848-4339-8B73-2EB4D6EBF478}|Car Race.csproj|c:\\users\\hugot\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\lecture\\chapter 05\\car race\\car race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7070E56-4848-4339-8B73-2EB4D6EBF478}|Car Race.csproj|solutionrelative:car race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +51,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car Race.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\Car Race.cs",
+              "RelativeDocumentMoniker": "Car Race.cs",
+              "ToolTip": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\Car Race.cs [Design]",
+              "RelativeToolTip": "Car Race.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:34:37.42Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

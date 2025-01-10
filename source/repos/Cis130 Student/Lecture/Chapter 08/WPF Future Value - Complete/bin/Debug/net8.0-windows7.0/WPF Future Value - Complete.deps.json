@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPF Future Value - Complete/1.0.0": {
+        "runtime": {
+          "WPF Future Value - Complete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF Future Value - Complete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\ref\FutureValue.dll
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.exe
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.deps.json
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.runtimeconfig.json
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.dll
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\bin\Debug\net7.0-windows\FutureValue.pdb
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.sourcelink.json
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\FutureValue.genruntimeconfig.cache
+\\Mac\OneDrive-Personal\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 07\FutureValue with exception handling\FutureValue\obj\Debug\net7.0-windows\ref\FutureValue.dll

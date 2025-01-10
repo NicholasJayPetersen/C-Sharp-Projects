@@ -42,6 +42,8 @@
             label3 = new Label();
             txtBrushes = new TextBox();
             groupBox2 = new GroupBox();
+            label9 = new Label();
+            txtProjectHours = new TextBox();
             label11 = new Label();
             txtJuniorHours = new TextBox();
             label12 = new Label();
@@ -184,6 +186,8 @@
             // 
             // groupBox2
             // 
+            groupBox2.Controls.Add(label9);
+            groupBox2.Controls.Add(txtProjectHours);
             groupBox2.Controls.Add(label11);
             groupBox2.Controls.Add(txtJuniorHours);
             groupBox2.Controls.Add(label12);
@@ -194,6 +198,23 @@
             groupBox2.TabIndex = 5;
             groupBox2.TabStop = false;
             groupBox2.Text = "Number of Painters";
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Location = new Point(4, 114);
+            label9.Name = "label9";
+            label9.Size = new Size(191, 21);
+            label9.TabIndex = 4;
+            label9.Text = "&Project hours to complete:";
+            // 
+            // txtProjectHours
+            // 
+            txtProjectHours.Location = new Point(226, 111);
+            txtProjectHours.Name = "txtProjectHours";
+            txtProjectHours.Size = new Size(58, 29);
+            txtProjectHours.TabIndex = 5;
+            txtProjectHours.TextChanged += TextBox_TextChanged;
             // 
             // label11
             // 
@@ -434,5 +455,7 @@
         private Button btnCalculate;
         private Button btnClear;
         private Button btnExit;
+        private Label label9;
+        private TextBox txtProjectHours;
     }
 }

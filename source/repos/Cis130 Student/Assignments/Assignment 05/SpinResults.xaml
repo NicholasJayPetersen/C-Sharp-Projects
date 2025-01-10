@@ -1,0 +1,19 @@
+﻿<Window x:Name="wndSpinResults" x:Class="Assignment05.SpinResults"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment05"
+        mc:Ignorable="d"
+        Title="SpinResults" Height="536" Width="800">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}">
+        <Label x:Name="lbl500" Content="500 dollars" HorizontalAlignment="Left" Height="69" Margin="163,27,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="lbl400" Content="400 dollars" HorizontalAlignment="Left" Height="69" Margin="163,101,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="lbl300" Content="300 dollars" HorizontalAlignment="Left" Height="69" Margin="163,175,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="lbl200" Content="200 dollars" HorizontalAlignment="Left" Height="69" Margin="163,249,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="lbl100" Content="100 dollars" HorizontalAlignment="Left" Height="69" Margin="163,323,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="lbl0" Content="lose turn" HorizontalAlignment="Left" Height="69" Margin="163,397,0,0" VerticalAlignment="Top" Width="438" FontSize="48" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Image x:Name="imgClose" HorizontalAlignment="Left" Height="88" Margin="651,407,0,0" VerticalAlignment="Top" Width="113" Source="/Return.jpg"  MouseDown="imgClose_MouseDown" />
+
+    </Grid>
+</Window>

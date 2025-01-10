@@ -1,0 +1,16 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\bin\Debug\net8.0-windows7.0\Lottery Numbers.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\bin\Debug\net8.0-windows7.0\Lottery Numbers.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\bin\Debug\net8.0-windows7.0\Lottery Numbers.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\bin\Debug\net8.0-windows7.0\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\bin\Debug\net8.0-windows7.0\Lottery Numbers.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery_Numbers.frmLottery.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\refint\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\Lottery Numbers.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Lottery Numbers\obj\Debug\net8.0-windows7.0\ref\Lottery Numbers.dll

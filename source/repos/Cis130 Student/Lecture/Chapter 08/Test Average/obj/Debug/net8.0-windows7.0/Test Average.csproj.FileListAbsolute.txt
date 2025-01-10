@@ -1,0 +1,16 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\bin\Debug\net8.0-windows7.0\Test Average.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\bin\Debug\net8.0-windows7.0\Test Average.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\bin\Debug\net8.0-windows7.0\Test Average.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\bin\Debug\net8.0-windows7.0\Test Average.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\bin\Debug\net8.0-windows7.0\Test Average.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test_Average.frmTestScores.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\refint\Test Average.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\Test Average.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\Test Average\obj\Debug\net8.0-windows7.0\ref\Test Average.dll

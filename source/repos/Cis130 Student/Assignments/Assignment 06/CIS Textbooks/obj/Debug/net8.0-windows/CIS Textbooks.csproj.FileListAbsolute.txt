@@ -1,0 +1,73 @@
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.exe
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.deps.json
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.runtimeconfig.json
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.AddBookForm.resources
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.DisplayAllForm.resources
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.frmMainForm.resources
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\refint\CIS Textbooks.dll
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Cis 130 Fall 2024\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\ref\CIS Textbooks.dll
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.exe
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.deps.json
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.runtimeconfig.json
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.AddBookForm.resources
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.DisplayAllForm.resources
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.frmMainForm.resources
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.GenerateResource.cache
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfoInputs.cache
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfo.cs
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.CoreCompileInputs.cache
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\refint\CIS Textbooks.dll
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.genruntimeconfig.cache
+C:\Users\tconti\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\ref\CIS Textbooks.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.AddBookForm.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.DisplayAllForm.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.frmMainForm.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\refint\CIS Textbooks.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130 C# NetCore\Student Asssignments\Fall 2024\Assignment Projects Start\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\ref\CIS Textbooks.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\refint\CIS Textbooks.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.exe
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.deps.json
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.runtimeconfig.json
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.dll
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\bin\Debug\net8.0-windows\CIS Textbooks.pdb
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.AddBookForm.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.DisplayAllForm.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS_Textbooks.frmMainForm.resources
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.AssemblyInfo.cs
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.sourcelink.json
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\CIS Textbooks.genruntimeconfig.cache
+D:\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Assignments\Assignment 06\CIS Textbooks\obj\Debug\net8.0-windows\ref\CIS Textbooks.dll

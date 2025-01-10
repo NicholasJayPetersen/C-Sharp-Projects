@@ -1,44 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net7.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ajcon\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hugot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajcon\\source\\repos\\Net 8\\Chapter 05\\Car Race\\Car Race.csproj",
+      "projectUniqueName": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\Car Race.csproj",
       "projectName": "Car Race",
-      "projectPath": "C:\\Users\\ajcon\\source\\repos\\Net 8\\Chapter 05\\Car Race\\Car Race.csproj",
-      "packagesPath": "C:\\Users\\ajcon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajcon\\source\\repos\\Net 8\\Chapter 05\\Car Race\\obj\\",
+      "projectPath": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\Car Race.csproj",
+      "packagesPath": "C:\\Users\\hugot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ajcon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hugot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows7.0"
+        "net7.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows7.0",
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
           "projectReferences": {}
         }
       },
@@ -54,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows7.0",
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -67,6 +61,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-arm64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -75,7 +87,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

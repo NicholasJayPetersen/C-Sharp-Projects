@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\bin\Debug\net8.0-windows7.0\Cards.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\bin\Debug\net8.0-windows7.0\Cards.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\bin\Debug\net8.0-windows7.0\Cards.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\bin\Debug\net8.0-windows7.0\Cards.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\bin\Debug\net8.0-windows7.0\Cards.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.frmCards.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\refint\Cards.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\Cards.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Cards\obj\Debug\net8.0-windows7.0\ref\Cards.dll

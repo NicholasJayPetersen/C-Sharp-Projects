@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B133B31-D3D1-44EF-AC0E-126BE5A3ED87}|Assignment 01.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 01\\strokes of genius quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4B133B31-D3D1-44EF-AC0E-126BE5A3ED87}|Assignment 01.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 01\\strokes of genius quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B133B31-D3D1-44EF-AC0E-126BE5A3ED87}|Assignment 01.csproj|solutionrelative:strokes of genius quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B133B31-D3D1-44EF-AC0E-126BE5A3ED87}|Assignment 01.csproj|d:\\onedrive\\documents\\academics\\hfc\\cis130\\source\\repos\\cis130 student\\assignments\\assignment 01\\strokes of genius quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B133B31-D3D1-44EF-AC0E-126BE5A3ED87}|Assignment 01.csproj|solutionrelative:strokes of genius quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Strokes of Genius Quote.cs [Design]",
-              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs",
               "RelativeDocumentMoniker": "Strokes of Genius Quote.cs",
-              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs [Design]",
+              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs [Design]",
               "RelativeToolTip": "Strokes of Genius Quote.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T00:58:02.202Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Strokes of Genius Quote.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs",
-              "RelativeDocumentMoniker": "Strokes of Genius Quote.cs",
-              "ToolTip": "D:\\OneDrive\\Documents\\Academics\\HFC\\cis130\\source\\repos\\Cis130 Student\\Assignments\\Assignment 01\\Strokes of Genius Quote.cs",
-              "RelativeToolTip": "Strokes of Genius Quote.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T01:28:35.849Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

@@ -1,0 +1,16 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.frmCards.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.Properties.Resources.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 06\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

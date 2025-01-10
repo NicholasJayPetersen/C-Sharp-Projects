@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\bin\Debug\net7.0-windows\Test Average.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\bin\Debug\net7.0-windows\Test Average.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\bin\Debug\net7.0-windows\Test Average.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\bin\Debug\net7.0-windows\Test Average.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\bin\Debug\net7.0-windows\Test Average.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test_Average.frmTestScores.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\refint\Test Average.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\Test Average.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Test Average\obj\Debug\net7.0-windows\ref\Test Average.dll

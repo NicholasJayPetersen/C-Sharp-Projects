@@ -1,0 +1,20 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\bin\Debug\net8.0-windows7.0\WPF Future Value - Complete.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\bin\Debug\net8.0-windows7.0\WPF Future Value - Complete.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\bin\Debug\net8.0-windows7.0\WPF Future Value - Complete.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\bin\Debug\net8.0-windows7.0\WPF Future Value - Complete.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\bin\Debug\net8.0-windows7.0\WPF Future Value - Complete.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\FutureValue.g.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete_MarkupCompile.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete_MarkupCompile.lref
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\FutureValue.baml
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.g.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\refint\WPF Future Value - Complete.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\WPF Future Value - Complete.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 08\WPF Future Value - Complete\obj\Debug\net8.0-windows7.0\ref\WPF Future Value - Complete.dll

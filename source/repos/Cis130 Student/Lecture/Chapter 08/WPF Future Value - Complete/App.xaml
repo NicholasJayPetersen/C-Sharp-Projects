@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF_Future_Value___Complete.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Future_Value___Complete"
+             StartupUri="FutureValue.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

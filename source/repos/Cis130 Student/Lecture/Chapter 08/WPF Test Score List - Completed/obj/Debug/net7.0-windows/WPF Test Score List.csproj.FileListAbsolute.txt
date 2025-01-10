@@ -1,0 +1,21 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\bin\Debug\net7.0-windows\WPF Test Score List.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\bin\Debug\net7.0-windows\WPF Test Score List.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\bin\Debug\net7.0-windows\WPF Test Score List.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\bin\Debug\net7.0-windows\WPF Test Score List.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\bin\Debug\net7.0-windows\WPF Test Score List.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\TestScoreList.g.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List_MarkupCompile.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List_MarkupCompile.lref
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\TestScoreList.baml
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.g.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\refint\WPF Test Score List.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\WPF Test Score List.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\WPF Test Score List - Completed\obj\Debug\net7.0-windows\ref\WPF Test Score List.dll

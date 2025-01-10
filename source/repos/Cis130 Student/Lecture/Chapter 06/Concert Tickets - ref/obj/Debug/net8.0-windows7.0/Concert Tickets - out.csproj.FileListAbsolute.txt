@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\bin\Debug\net8.0-windows7.0\Concert Tickets - out.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\bin\Debug\net8.0-windows7.0\Concert Tickets - out.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\bin\Debug\net8.0-windows7.0\Concert Tickets - out.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\bin\Debug\net8.0-windows7.0\Concert Tickets - out.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\bin\Debug\net8.0-windows7.0\Concert Tickets - out.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert_Tickets___out.Form1.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert_Tickets___out.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\refint\Concert Tickets - out.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\Concert Tickets - out.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Concert Tickets - ref\obj\Debug\net8.0-windows7.0\ref\Concert Tickets - out.dll

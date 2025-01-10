@@ -30,6 +30,7 @@ namespace Assignment_01
             int intTrimTape; int.TryParse(txtTrimTape.Text, out intTrimTape);
             int intSeniorHours; int.TryParse(txtSeniorHours.Text, out intSeniorHours);
             int intJuniorHours; int.TryParse(txtJuniorHours.Text, out intJuniorHours);
+            int intProjectHours; int.TryParse(txtProjectHours.Text, out intProjectHours);
 
             decimal subtotal;
             decimal tax;
@@ -41,14 +42,14 @@ namespace Assignment_01
                         (intPrimerPaint * PRIMTER_PAINT_COST) + (intTrimTape * TRIM_TAPE_COST), 2);
 
             tax = Math.Round(subtotal * SALES_TAX, 2);
-            labor = Math.Round((intSeniorHours * SENIOR_HOURS_COST) + (intJuniorHours * JUNIOR_HOURS_COST), 2);
+            labor = Math.Round((intSeniorHours * SENIOR_HOURS_COST * intProjectHours) + (intJuniorHours * JUNIOR_HOURS_COST * intProjectHours), 2);
             total = Math.Round(subtotal + tax + labor, 2);
 
             //output the results
-            lblSupplies.Text = subtotal.ToString();
-            lblSalesTax.Text = tax.ToString();
-            lblLabor.Text = labor.ToString();
-            lblTotal.Text = total.ToString();
+            lblSupplies.Text = subtotal.ToString("c");
+            lblSalesTax.Text = tax.ToString("c");
+            lblLabor.Text = labor.ToString("c");
+            lblTotal.Text = total.ToString("c");
 
         }
 

@@ -1,0 +1,12 @@
+﻿<Window x:Name="wndFlightInformation" x:Class="Airlines.Flight_Information"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Airlines"
+        mc:Ignorable="d"
+        Title="Flight Information" Height="450" Width="1154" ResizeMode="NoResize">
+    <Grid x:Name="Grid1">
+        <TextBox x:Name="txtFlightInformation" HorizontalAlignment="Center" Height="414" TextWrapping="Wrap" VerticalAlignment="Center" Width="1134" VerticalScrollBarVisibility="Visible" FontSize="16" FontFamily="Courier New" IsReadOnly="True"/>
+    </Grid>
+</Window>

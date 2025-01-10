@@ -15,3 +15,21 @@ C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.
 C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.pdb
 C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.genruntimeconfig.cache
 C:\Users\ajcon\source\repos\Net 8\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\ref\Car Race.dll
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.exe
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.deps.json
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.runtimeconfig.json
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.dll
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\bin\Debug\net8.0-windows7.0\Car Race.pdb
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car_Race.frmCarRace.resources
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car_Race.Properties.Resources.resources
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.csproj.GenerateResource.cache
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.AssemblyInfoInputs.cache
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.AssemblyInfo.cs
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.sourcelink.json
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.dll
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\refint\Car Race.dll
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.pdb
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\Car Race.genruntimeconfig.cache
+C:\Users\hugot\OneDrive\Documents\Academics\HFC\cis130\CIS130\source\repos\Cis130 Student\Lecture\Chapter 05\Car Race\obj\Debug\net8.0-windows7.0\ref\Car Race.dll

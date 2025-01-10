@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CIS Textbooks/1.0.0": {
+        "runtime": {
+          "CIS Textbooks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIS Textbooks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

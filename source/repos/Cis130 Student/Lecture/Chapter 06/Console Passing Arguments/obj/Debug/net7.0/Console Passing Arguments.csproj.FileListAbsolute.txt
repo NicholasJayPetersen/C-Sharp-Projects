@@ -1,0 +1,15 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\bin\Debug\net7.0\Console Passing Arguments.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\bin\Debug\net7.0\Console Passing Arguments.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\bin\Debug\net7.0\Console Passing Arguments.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\bin\Debug\net7.0\Console Passing Arguments.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\bin\Debug\net7.0\Console Passing Arguments.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\refint\Console Passing Arguments.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\Console Passing Arguments.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 06\Console Passing Arguments\obj\Debug\net7.0\ref\Console Passing Arguments.dll

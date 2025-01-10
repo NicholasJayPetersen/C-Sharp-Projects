@@ -1,0 +1,15 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.runtimeconfig.dev.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\bin\Debug\netcoreapp3.1\Lottery Numbers.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery_Numbers.frmLottery.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Lecture Projects\Chapter 08\Lottery Numbers\obj\Debug\netcoreapp3.1\Lottery Numbers.genruntimeconfig.cache

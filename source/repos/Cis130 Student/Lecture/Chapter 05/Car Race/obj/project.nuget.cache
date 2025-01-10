@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Sx0OFUZwQ7w=",
+  "dgSpecHash": "A1nsx22EAWg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajcon\\source\\repos\\Net 8\\Chapter 05\\Car Race\\Car Race.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hugot\\OneDrive\\Documents\\Academics\\HFC\\cis130\\CIS130\\source\\repos\\Cis130 Student\\Lecture\\Chapter 05\\Car Race\\Car Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\hugot\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\hugot\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\7.0.20\\microsoft.netcore.app.host.win-arm64.7.0.20.nupkg.sha512",
+    "C:\\Users\\hugot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

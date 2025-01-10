@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\bin\Debug\net8.0-windows7.0\ValueReturningMethods.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\bin\Debug\net8.0-windows7.0\ValueReturningMethods.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\bin\Debug\net8.0-windows7.0\ValueReturningMethods.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\bin\Debug\net8.0-windows7.0\ValueReturningMethods.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\bin\Debug\net8.0-windows7.0\ValueReturningMethods.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.frmEmployeeProfile.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.frmProfileResults.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\refint\ValueReturningMethods.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ValueReturningMethods.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\ValueReturningMethods\obj\Debug\net8.0-windows7.0\ref\ValueReturningMethods.dll

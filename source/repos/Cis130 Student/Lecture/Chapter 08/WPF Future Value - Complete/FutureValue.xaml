@@ -1,0 +1,22 @@
+﻿<Window x:Name="wndFutureValue" x:Class="WPF_Future_Value___Complete.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Future_Value___Complete"
+        mc:Ignorable="d"
+        Title="Future Value" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtMonthlyInvestment" HorizontalAlignment="Left" Height="37" Margin="389,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289"/>
+        <Label Content="_Montly investment:" HorizontalAlignment="Left" Height="37" Margin="125,30,0,0" VerticalAlignment="Top" Width="242" Target="{Binding ElementName=txtMonthlyInvestment, Mode=OneWay}"/>
+        <TextBox x:Name="txtInterestRate" HorizontalAlignment="Left" Height="37" Margin="389,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289"/>
+        <Label Content="_Interest rate:" HorizontalAlignment="Left" Height="37" Margin="125,92,0,0" VerticalAlignment="Top" Width="242" Target="{Binding ElementName=txtInterestRate, Mode=OneWay}"/>
+        <TextBox x:Name="txtYears" HorizontalAlignment="Left" Height="37" Margin="389,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289"/>
+        <Label Content="_Number of years:" HorizontalAlignment="Left" Height="37" Margin="125,157,0,0" VerticalAlignment="Top" Width="242" Target="{Binding ElementName=txtYears, Mode=OneWay}"/>
+        <Label Content="Future value:" HorizontalAlignment="Left" Height="37" Margin="125,217,0,0" VerticalAlignment="Top" Width="242"/>
+        <Label x:Name="lblFutureValue" Content="" HorizontalAlignment="Left" Height="37" Margin="389,217,0,0" VerticalAlignment="Top" Width="289" BorderBrush="Black" BorderThickness="1,1,1,1" HorizontalContentAlignment="Center"/>
+        <Button x:Name="btnCalculate" Content="_Calculate" HorizontalAlignment="Left" Height="53" Margin="189,317,0,0" VerticalAlignment="Top" Width="157" Click="btnCalculate_Click"/>
+        <Button x:Name="btnExit" Content="E_xit" HorizontalAlignment="Left" Height="53" Margin="437,312,0,0" VerticalAlignment="Top" Width="157" Click="btnExit_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\bin\Debug\net8.0-windows7.0\Lights.exe
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\bin\Debug\net8.0-windows7.0\Lights.deps.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\bin\Debug\net8.0-windows7.0\Lights.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\bin\Debug\net8.0-windows7.0\Lights.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\bin\Debug\net8.0-windows7.0\Lights.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.Form1.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.Properties.Resources.resources
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\refint\Lights.dll
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.pdb
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\Lights.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 8\Chapter 06\Lights\obj\Debug\net8.0-windows7.0\ref\Lights.dll

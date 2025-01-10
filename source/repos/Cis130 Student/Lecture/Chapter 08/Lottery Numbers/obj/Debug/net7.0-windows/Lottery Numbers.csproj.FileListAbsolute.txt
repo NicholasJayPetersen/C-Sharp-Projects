@@ -1,0 +1,17 @@
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\bin\Debug\net7.0-windows\Lottery Numbers.exe
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\bin\Debug\net7.0-windows\Lottery Numbers.deps.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\bin\Debug\net7.0-windows\Lottery Numbers.runtimeconfig.json
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\bin\Debug\net7.0-windows\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\bin\Debug\net7.0-windows\Lottery Numbers.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.csproj.AssemblyReference.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery_Numbers.frmLottery.resources
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.csproj.GenerateResource.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.AssemblyInfoInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.AssemblyInfo.cs
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\refint\Lottery Numbers.dll
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.pdb
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\Lottery Numbers.genruntimeconfig.cache
+C:\Users\ajcon\source\repos\Net 7 Version\Chapter 08\Lottery Numbers\obj\Debug\net7.0-windows\ref\Lottery Numbers.dll
